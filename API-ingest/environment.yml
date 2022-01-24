@@ -1,0 +1,10 @@
+name: rosetta3.8
+channels:
+  - conda-forge
+dependencies:
+  - pydantic=1.9.0
+  - python=3.8.5
+  - fastapi
+  - uvicorn
+  - kafka-python
+prefix: /Users/swittchawanwanidchai/miniconda3/envs/rosetta3.8
