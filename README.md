@@ -1,2 +1,2 @@
-# Streaming Pipeline with Kafka, PySpark, FastAPI, MongoDB, and StreamLit 
+# Streaming Document Pipeline with Kafka, Spark, FastAPI, MongoDB, and StreamLit 
  
